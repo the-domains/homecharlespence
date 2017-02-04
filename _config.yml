@@ -1,0 +1,36 @@
+name: Home
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
+layout_spectrum: 0.025839765424572742
+typography_spectrum: 0.3182586295072838
+analytics:
+  facebook: ''
+  google: UA-54874277-3
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  brandStrength: 0.018731023708155544
+  lightness: 0.216296163265787
+  saturation: 0.49741022394158607
+  rhythmicContrast: 0.3233488191299989
+purpose:
+  - type: external
+    label: Career Portal
+    url: 'http://career.charlespence.com'
+title: Charles Pence
+description: life from my view
+author:
+  name: Charles Pence
+  email: cpence25@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
