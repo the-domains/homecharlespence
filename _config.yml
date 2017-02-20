@@ -21,10 +21,7 @@ color:
   lightness: 0.216296163265787
   saturation: 0.49741022394158607
   rhythmicContrast: 0.3233488191299989
-purpose:
-  - type: external
-    label: Career Portal
-    url: 'http://career.charlespence.com'
+purpose: []
 title: Charles Pence
 description: life from my view
 author:
