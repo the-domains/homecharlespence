@@ -6,15 +6,15 @@ description: >-
   bad ass game! Anyways, I’ve decided to learn to write games with Unity 3D. As
   I work through the courses that I have on Unity Game Development, I’ll post my
   accomplishments here.
-dateModified: '2017-02-20T01:55:03.027Z'
-datePublished: '2017-02-20T01:55:03.397Z'
+dateModified: '2017-02-20T01:55:15.710Z'
+datePublished: '2017-02-20T02:01:48.695Z'
 title: Would you like to play a game?
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-02-20T01:55:03.397Z'
 sourcePath: _posts/2017-02-20-would-you-like-to-play-a-game.md
+starred: false
+datePublishedOriginal: '2017-02-20T02:01:48.695Z'
 _type: Blurb
 
 ---
