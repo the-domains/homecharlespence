@@ -35,27 +35,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
 title: Charles Pence
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b531ab-6d0b-41ad-9249-eda995c83dad.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b531ab-6d0b-41ad-9249-eda995c83dad.jpg
-    metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: life from my view
 purpose: []
