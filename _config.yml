@@ -29,6 +29,9 @@ navigation:
   - name: Career Portal
     url: 'http://career.charlespence.com'
     type: external
+  - name: Game Development
+    url: 'http://games.charlespence.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
 title: Charles Pence
