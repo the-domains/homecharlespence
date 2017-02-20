@@ -1,15 +1,6 @@
-name: Home
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
-layout_spectrum: 0.025839765424572742
 typography_spectrum: 0.3182586295072838
-analytics:
-  facebook: ''
-  google: UA-54874277-3
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#5A1F00'
@@ -21,14 +12,26 @@ color:
   lightness: 0.216296163265787
   saturation: 0.49741022394158607
   rhythmicContrast: 0.3233488191299989
-purpose: []
-title: Charles Pence
-description: life from my view
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.025839765424572742
+analytics:
+  facebook: ''
+  google: UA-54874277-3
+  twitter: ''
 author:
   name: Charles Pence
   email: cpence25@gmail.com
-content_rating:
-  adult: false
+name: Home
+navigation:
+  - name: Career Portal
+    url: 'http://career.charlespence.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
+title: Charles Pence
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -51,4 +54,5 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: life from my view
+purpose: []
