@@ -15,15 +15,15 @@ content_rating:
   adult: false
 github: true
 opengraph:
-  type: ''
-  appId: ''
+  type: article
+  appId: '1242489762440789'
 analytics:
   facebook: ''
   google: UA-54874277-3
   twitter: ''
 author:
   name: Charles Pence
-  email: cpence25@gmail.com
+  email: cpence@charlespence.com
 name: Home
 navigation:
   - name: Career Portal
