@@ -24,7 +24,7 @@ analytics:
 author:
   name: Charles Pence
   email: cpence@charlespence.com
-name: Home
+name: CharlesPence.com
 navigation:
   - name: Career Portal
     url: 'http://career.charlespence.com'
@@ -33,7 +33,7 @@ navigation:
     url: 'http://games.charlespence.com'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a775dea-048e-49b2-ad19-74ac6b5f0afb.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a7e37b-6460-4b96-85f0-c6178eca7666.svg
 title: Charles Pence
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,3 +62,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: life from my view
 purpose: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7311ca61-5e70-424d-b044-e4dce540865b.svg
