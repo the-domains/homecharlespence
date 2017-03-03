@@ -24,6 +24,7 @@ analytics:
 author:
   name: Charles Pence
   email: cpence@charlespence.com
+  url: 'http://www.charlespence.com'
 name: CharlesPence.com
 navigation:
   - name: Career Portal
@@ -33,7 +34,7 @@ navigation:
     url: 'http://games.charlespence.com'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a7e37b-6460-4b96-85f0-c6178eca7666.svg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/794f9a7c-a7af-4950-8297-36e0696739d1.svg
 title: Charles Pence
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
